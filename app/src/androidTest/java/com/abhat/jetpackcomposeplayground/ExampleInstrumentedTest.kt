@@ -1,4 +1,4 @@
-package com.abhat.android_project_starter
+package com.abhat.jetpackcomposeplayground
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

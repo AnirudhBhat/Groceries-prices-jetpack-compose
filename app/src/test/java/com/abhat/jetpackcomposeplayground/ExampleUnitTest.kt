@@ -1,4 +1,4 @@
-package com.abhat.android_project_starter
+package com.abhat.jetpackcomposeplayground
 
 import org.junit.Test
 

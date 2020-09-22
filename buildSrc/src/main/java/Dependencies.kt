@@ -13,8 +13,8 @@ object Versions {
     const val buildToolsVersion = "29.0.2"
 
     // Build tool and language
-    const val androidPlugin = "3.6.3"
-    const val kotlin = "1.3.71"
+    const val androidPlugin = "4.2.0-alpha11"
+    const val kotlin = "1.4.10"
     const val javaCompatibilityVersion = 1.8
 
     // Networking
